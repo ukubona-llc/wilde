@@ -1331,7 +1331,7 @@ And both Wilde and Nietzsche understood, perhaps better than anyone since, that 
 That's the compression claim. That's what they shared. That's why they both died in 1900 feeling, I suspect, that the century they'd diagnosed was only just beginning to prove them right.
 
 ## III
-to think that i wrote this https://ukubona-llc.github.io/eigenmode/ a week ago? My poor brain is paying the price for having met Wilde at 21 and Nietzsche at 23. Freud at 19 was super stimulating.. and laid the foundation for Nietzsche, whom I met while reading Freud: 
+To think that i wrote this https://ukubona-llc.github.io/eigenmode/ a week ago? My poor brain is paying the price for having met Wilde at 21 and Nietzsche at 23. Freud at 19 was super stimulating.. and laid the foundation for Nietzsche, whom I met while reading Freud: 
 
 ---
 
@@ -1381,14 +1381,14 @@ Nietzsche was terrifying because he compressed too efficiently.
 
 You can almost formulate it mathematically:
 
-[
+$$
 \text{Nietzsche} \approx \mathcal{C}(T)
-]
+$$
 
 where:
 
-* (T) = European metaphysical-psychological tensor
-* (\mathcal{C}) = impossibly high-ratio compression operator
+* $T$ = European metaphysical-psychological tensor
+* $\mathcal{C}$ = impossibly high-ratio compression operator
 
 yielding:
 
