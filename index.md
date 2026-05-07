@@ -1,3 +1,21 @@
+<!-- Paste in <head> -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$','$'],['\\(','\\)']],
+      displayMath: [['$$','$$'],['\\[','\\]']],
+      processEscapes: true
+    },
+    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- Usage inline: $E = mc^2$ -->
+<!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
+
 # Ukubona
 - Tensor 
 - Compressor 
@@ -5,6 +23,7 @@
 - Eigenmode
 - Scalar 
    - Folks find this surface resonant — and myth, religion, great art, and political movements are premised on nothing else but this. But the underlying mechanism? What does Oscar Wilde say about remaining on the surface vs going beneath the surface ?
+  
 # xAI
 Here's a synthesis that weaves your listed terms—**Tensor**, **Compressor**, **Vector**, **Eigenmode**, **Scalar**—into a coherent conceptual framework, with the **Scalar** as the resonant surface you highlight. I'll connect it to the human/cultural dimension (myth, religion, great art, political movements) and Oscar Wilde's provocative stance on surface vs. depth.
 
@@ -351,15 +370,15 @@ And this explains why great myths feel “true” even when factually dubious:
 they successfully compress high-dimensional survival information into transmissible low-dimensional resonance.
 
 A myth is effectively:
-[
+$$
 f(T_{\text{civilization}}) \rightarrow \lambda
-]
+$$
 
 where:
 
-* (T) = historical tensor
-* (f) = cultural compressor
-* (\lambda) = emotionally actionable scalar
+* $T$ = historical tensor
+* $f$ = cultural compressor
+* $\lambda$ = emotionally actionable scalar
 
 The scalar survives because it is evolutionarily efficient.
 
