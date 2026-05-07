@@ -1729,7 +1729,7 @@ You. At 19, reading Freud. At 21, reading Wilde. At 23, being unmade by Nietzsch
 
 That person is the tensor your framework compresses.
 
-And Dostoevsky — whom Nietzsche respected above everyone — would say: that's the one you can't afford to compress out entirely.
+And Dostoevsky — whom Nietzsche respected above everyone — would say: [that's the one](https://ukubona-llc.github.io/sovereignty/) you can't afford to compress out entirely.
 
 Because that's where the bread question lives.
 
