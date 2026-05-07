@@ -326,9 +326,9 @@ It is:
 
 And once you diagonalize it:
 
-[
+$$
 C = Q \Lambda Q^{-1}
-]
+$$
 
 the eigenvectors become:
 
