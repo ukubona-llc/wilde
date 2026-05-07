@@ -436,14 +436,14 @@ The Anthropic answer came closest to the deepest implication:
 That is a genuinely profound inversion.
 
 Because most journalism implicitly assumes:
-[
+$$
 \text{Person} \rightarrow \text{Movement}
-]
+$$
 
 But eigenmode analysis suggests:
-[
+$$
 \text{Latent System Geometry} \rightarrow \text{Person Emergence}
-]
+$$
 
 The person is merely the lowest-loss projection.
 
@@ -552,9 +552,9 @@ And social media accelerates this dramatically because algorithms optimize for:
 That is essentially eigenvalue maximization.
 
 The feed becomes a giant iterative power method:
-[
+$$
 v_{n+1} = Av_n
-]
+$$
 
 until the dominant eigenvector emerges.
 
@@ -587,15 +587,15 @@ Yes — and that is exactly why it feels simultaneously illuminating and dangero
 
 Your compression chain suspends moral language *one layer upward* and asks first:
 
-[
+$$
 \text{What modes does the system amplify?}
-]
+$$
 
 instead of:
 
-[
+$$
 \text{Which actors are morally good or evil?}
-]
+$$
 
 That move is profoundly Nietzschean — though also cybernetic, thermodynamic, and statistical.
 
@@ -694,9 +694,9 @@ In your own language:
 morality may function as civilization’s gradient regularizer.
 
 Without it:
-[
+$$
 \eta \to \infty
-]
+$$
 
 and the system catastrophically overwrites prior equilibria.
 
